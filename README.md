@@ -1,2 +1,2 @@
-# logi-opera
+# Site de estudo HTML e CSS
 Estudo
