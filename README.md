@@ -1,1 +1,1 @@
-Initial study in HTML and CSS
+First project made for basic consolidation of HTML and CSS.
