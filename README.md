@@ -1,2 +1,1 @@
-# Site de estudo HTML e CSS
-Estudo
+Initial study in HTML and CSS
